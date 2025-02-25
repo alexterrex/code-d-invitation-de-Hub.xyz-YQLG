@@ -22,7 +22,7 @@ Hub.xyz est une plateforme où les utilisateurs contribuent à l'évolution des 
 
 ## Comment Commencer ?
 
-1. **Inscrivez-vous :** Rendez-vous sur la plateforme ([https://hub.xy](https://ai.hub.xyz/cult/SYalmac).
+1. **Inscrivez-vous :** Rendez-vous sur la plateforme ([https://hub.xyz](https://ai.hub.xyz/cult/SYalmac).
 2. **Entrez le Code d'Invitation :** Utilisez le code d'invitation **YQLG** lors de votre inscription.
 3. **Gagnez des Points IQ :** Augmentez vos points IQ grâce à vos interactions avec l'IA.
 4. **Gagnez des Tokens $HUB :** Convertissez vos points IQ en tokens **$HUB**.
