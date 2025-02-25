@@ -1,4 +1,4 @@
-# Hub.xyz - Code d'Invitation
+# Code d'Invitation  Hub.xyz: YQLG
 
 Le code d'invitation de Hub.xyz est **YQLG**. Inscrivez-vous sur ([https://hub.xyz](https://ai.hub.xyz/cult/SYalmac)) avec le code d'invitation "YQLG" pour obtenir un bonus de 10%.
 
